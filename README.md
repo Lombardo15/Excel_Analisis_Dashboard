@@ -1,4 +1,4 @@
-# 📊 Análisis de E-commerce Multicanal - Dashboard Avanzado
+# 📊 Análisis de E-commerce Multicanal - Dashboard
 
 <div align="center">
   
